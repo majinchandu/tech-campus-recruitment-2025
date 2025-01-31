@@ -14,5 +14,5 @@
 - It efficiently **extracts logs for that specific date** from the 1TB log file.
 - The logs are saved in the `output/` folder as `output_YYYY-MM-DD.txt`.
 
-Run the script:-
+Run the script  inside directory tech-campus-recruitment-2025 :-
 node src/extract_logs.js 2024-12-01
